@@ -10,7 +10,7 @@ A contextual Chatbot that gives you details about Bharat Operating System Soluti
 
 ## Testing
 if you want test in the browser start SocketServer.py
- - python3 SocketServer.py
+ --python3 SocketServer.py
  the see the  real time result  by sending messeges in  the index.html(responsive UI is added)
 If you want to test out a version of this Bot, download telegram and search for DertsBot
 
